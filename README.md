@@ -17,9 +17,11 @@
 
 *  Understand monthly sales trends
 
-*  Analyze profit distribution across regions
-
 *  Analyse order distriution across payment mode
+
+*  Analyse review  count across product categories
+
+*  Identify product selling by region
 
   
 
@@ -90,9 +92,13 @@ The Power BI dashboard provides visual insights including:
 
 *  Monthly Sales Trend
 
-*  Distribution by Payment mode
+*  Distribution of orders by Payment mode
 
 *  Top 5 Selling Products
-*  
+
+*  Quantity sold by region
+
+*  reviw count by product categories
+
 
 
